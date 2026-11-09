@@ -1,0 +1,6 @@
+*.safetensors
+*.zip
+*.bin
+*.pt
+*.pth
+model_hoaks_indobert/
